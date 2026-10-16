@@ -1,0 +1,1648 @@
+[
+  {
+    "id": 1,
+    "title": "Interstellar",
+    "genres": [
+      "Science-fiction",
+      "Aventure"
+    ],
+    "year": 2014,
+    "rating": 3.3,
+    "popularity": 73
+  },
+  {
+    "id": 2,
+    "title": "Blade Runner 2049",
+    "genres": [
+      "Science-fiction",
+      "Thriller"
+    ],
+    "year": 2017,
+    "rating": 3.4,
+    "popularity": 81
+  },
+  {
+    "id": 3,
+    "title": "Matrix",
+    "genres": [
+      "Science-fiction",
+      "Action"
+    ],
+    "year": 1999,
+    "rating": 2.8,
+    "popularity": 77
+  },
+  {
+    "id": 4,
+    "title": "Inception",
+    "genres": [
+      "Science-fiction",
+      "Thriller",
+      "Action"
+    ],
+    "year": 2010,
+    "rating": 4,
+    "popularity": 92
+  },
+  {
+    "id": 5,
+    "title": "Alien, le huitième passager",
+    "genres": [
+      "Science-fiction",
+      "Horreur"
+    ],
+    "year": 1979,
+    "rating": 3,
+    "popularity": 89
+  },
+  {
+    "id": 6,
+    "title": "Terminator 2",
+    "genres": [
+      "Science-fiction",
+      "Action"
+    ],
+    "year": 1991,
+    "rating": 3.1,
+    "popularity": 27
+  },
+  {
+    "id": 7,
+    "title": "Star Wars : Un nouvel espoir",
+    "genres": [
+      "Science-fiction",
+      "Aventure"
+    ],
+    "year": 1977,
+    "rating": 3.1,
+    "popularity": 79
+  },
+  {
+    "id": 8,
+    "title": "Retour vers le futur",
+    "genres": [
+      "Science-fiction",
+      "Comédie",
+      "Aventure"
+    ],
+    "year": 1985,
+    "rating": 3.8,
+    "popularity": 54
+  },
+  {
+    "id": 9,
+    "title": "Dune",
+    "genres": [
+      "Science-fiction",
+      "Aventure"
+    ],
+    "year": 2021,
+    "rating": 4.4,
+    "popularity": 23
+  },
+  {
+    "id": 10,
+    "title": "Premier Contact",
+    "genres": [
+      "Science-fiction",
+      "Drame"
+    ],
+    "year": 2016,
+    "rating": 4.1,
+    "popularity": 53
+  },
+  {
+    "id": 11,
+    "title": "Gravity",
+    "genres": [
+      "Science-fiction",
+      "Thriller"
+    ],
+    "year": 2013,
+    "rating": 3.3,
+    "popularity": 23
+  },
+  {
+    "id": 12,
+    "title": "Ex Machina",
+    "genres": [
+      "Science-fiction",
+      "Thriller"
+    ],
+    "year": 2014,
+    "rating": 2.8,
+    "popularity": 78
+  },
+  {
+    "id": 13,
+    "title": "Le Cinquième Élément",
+    "genres": [
+      "Science-fiction",
+      "Action"
+    ],
+    "year": 1997,
+    "rating": 4.5,
+    "popularity": 70
+  },
+  {
+    "id": 14,
+    "title": "WALL-E",
+    "genres": [
+      "Animation",
+      "Science-fiction",
+      "Romance"
+    ],
+    "year": 2008,
+    "rating": 3.2,
+    "popularity": 90
+  },
+  {
+    "id": 15,
+    "title": "Avatar",
+    "genres": [
+      "Science-fiction",
+      "Aventure"
+    ],
+    "year": 2009,
+    "rating": 4.4,
+    "popularity": 35
+  },
+  {
+    "id": 16,
+    "title": "Minority Report",
+    "genres": [
+      "Science-fiction",
+      "Thriller"
+    ],
+    "year": 2002,
+    "rating": 4.4,
+    "popularity": 86
+  },
+  {
+    "id": 17,
+    "title": "Jurassic Park",
+    "genres": [
+      "Science-fiction",
+      "Aventure"
+    ],
+    "year": 1993,
+    "rating": 3.8,
+    "popularity": 42
+  },
+  {
+    "id": 18,
+    "title": "L'Empire contre-attaque",
+    "genres": [
+      "Science-fiction",
+      "Aventure"
+    ],
+    "year": 1980,
+    "rating": 4.7,
+    "popularity": 54
+  },
+  {
+    "id": 19,
+    "title": "2001 : l'Odyssée de l'espace",
+    "genres": [
+      "Science-fiction",
+      "Aventure"
+    ],
+    "year": 1968,
+    "rating": 4.4,
+    "popularity": 21
+  },
+  {
+    "id": 20,
+    "title": "Mad Max : Fury Road",
+    "genres": [
+      "Action",
+      "Science-fiction"
+    ],
+    "year": 2015,
+    "rating": 4,
+    "popularity": 94
+  },
+  {
+    "id": 21,
+    "title": "Edge of Tomorrow",
+    "genres": [
+      "Science-fiction",
+      "Action"
+    ],
+    "year": 2014,
+    "rating": 3.7,
+    "popularity": 27
+  },
+  {
+    "id": 22,
+    "title": "Seul sur Mars",
+    "genres": [
+      "Science-fiction",
+      "Aventure",
+      "Drame"
+    ],
+    "year": 2015,
+    "rating": 3.5,
+    "popularity": 70
+  },
+  {
+    "id": 23,
+    "title": "Die Hard : Piège de cristal",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "year": 1988,
+    "rating": 3.4,
+    "popularity": 94
+  },
+  {
+    "id": 24,
+    "title": "Gladiator",
+    "genres": [
+      "Action",
+      "Drame",
+      "Aventure"
+    ],
+    "year": 2000,
+    "rating": 4.6,
+    "popularity": 31
+  },
+  {
+    "id": 25,
+    "title": "Casino Royale",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "year": 2006,
+    "rating": 3.9,
+    "popularity": 51
+  },
+  {
+    "id": 26,
+    "title": "Le Seigneur des anneaux : La Communauté de l'anneau",
+    "genres": [
+      "Fantastique",
+      "Aventure"
+    ],
+    "year": 2001,
+    "rating": 4.2,
+    "popularity": 62
+  },
+  {
+    "id": 27,
+    "title": "Le Seigneur des anneaux : Les Deux Tours",
+    "genres": [
+      "Fantastique",
+      "Aventure"
+    ],
+    "year": 2002,
+    "rating": 4.3,
+    "popularity": 96
+  },
+  {
+    "id": 28,
+    "title": "Le Seigneur des anneaux : Le Retour du roi",
+    "genres": [
+      "Fantastique",
+      "Aventure"
+    ],
+    "year": 2003,
+    "rating": 2.8,
+    "popularity": 66
+  },
+  {
+    "id": 29,
+    "title": "Indiana Jones : Les Aventuriers de l'arche perdue",
+    "genres": [
+      "Aventure",
+      "Action"
+    ],
+    "year": 1981,
+    "rating": 2.6,
+    "popularity": 70
+  },
+  {
+    "id": 30,
+    "title": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+    "genres": [
+      "Aventure",
+      "Fantastique",
+      "Comédie"
+    ],
+    "year": 2003,
+    "rating": 2.9,
+    "popularity": 39
+  },
+  {
+    "id": 31,
+    "title": "The Dark Knight",
+    "genres": [
+      "Action",
+      "Policier",
+      "Thriller"
+    ],
+    "year": 2008,
+    "rating": 4.1,
+    "popularity": 35
+  },
+  {
+    "id": 32,
+    "title": "Iron Man",
+    "genres": [
+      "Action",
+      "Science-fiction"
+    ],
+    "year": 2008,
+    "rating": 3.4,
+    "popularity": 78
+  },
+  {
+    "id": 33,
+    "title": "Avengers",
+    "genres": [
+      "Action",
+      "Science-fiction",
+      "Aventure"
+    ],
+    "year": 2012,
+    "rating": 4.3,
+    "popularity": 34
+  },
+  {
+    "id": 34,
+    "title": "Black Panther",
+    "genres": [
+      "Action",
+      "Aventure"
+    ],
+    "year": 2018,
+    "rating": 4.4,
+    "popularity": 46
+  },
+  {
+    "id": 35,
+    "title": "John Wick",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "year": 2014,
+    "rating": 4.1,
+    "popularity": 42
+  },
+  {
+    "id": 36,
+    "title": "Kill Bill : Volume 1",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "year": 2003,
+    "rating": 4.7,
+    "popularity": 51
+  },
+  {
+    "id": 37,
+    "title": "Léon",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Drame"
+    ],
+    "year": 1994,
+    "rating": 2.9,
+    "popularity": 26
+  },
+  {
+    "id": 38,
+    "title": "Heat",
+    "genres": [
+      "Policier",
+      "Action",
+      "Thriller"
+    ],
+    "year": 1995,
+    "rating": 3.5,
+    "popularity": 45
+  },
+  {
+    "id": 39,
+    "title": "Top Gun : Maverick",
+    "genres": [
+      "Action",
+      "Drame"
+    ],
+    "year": 2022,
+    "rating": 2.9,
+    "popularity": 42
+  },
+  {
+    "id": 40,
+    "title": "Le Fugitif",
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "year": 1993,
+    "rating": 4.2,
+    "popularity": 69
+  },
+  {
+    "id": 41,
+    "title": "Les Dents de la mer",
+    "genres": [
+      "Thriller",
+      "Horreur",
+      "Aventure"
+    ],
+    "year": 1975,
+    "rating": 3.6,
+    "popularity": 45
+  },
+  {
+    "id": 42,
+    "title": "Rocky",
+    "genres": [
+      "Drame"
+    ],
+    "year": 1976,
+    "rating": 4.7,
+    "popularity": 34
+  },
+  {
+    "id": 43,
+    "title": "Braveheart",
+    "genres": [
+      "Drame",
+      "Guerre"
+    ],
+    "year": 1995,
+    "rating": 3.4,
+    "popularity": 24
+  },
+  {
+    "id": 44,
+    "title": "Le Bon, la Brute et le Truand",
+    "genres": [
+      "Western",
+      "Aventure"
+    ],
+    "year": 1966,
+    "rating": 2.9,
+    "popularity": 80
+  },
+  {
+    "id": 45,
+    "title": "Il était une fois dans l'Ouest",
+    "genres": [
+      "Western"
+    ],
+    "year": 1968,
+    "rating": 3.1,
+    "popularity": 87
+  },
+  {
+    "id": 46,
+    "title": "Django Unchained",
+    "genres": [
+      "Western",
+      "Drame"
+    ],
+    "year": 2012,
+    "rating": 3.1,
+    "popularity": 23
+  },
+  {
+    "id": 47,
+    "title": "Le Silence des agneaux",
+    "genres": [
+      "Thriller",
+      "Horreur",
+      "Policier"
+    ],
+    "year": 1991,
+    "rating": 3.4,
+    "popularity": 24
+  },
+  {
+    "id": 48,
+    "title": "Se7en",
+    "genres": [
+      "Thriller",
+      "Policier"
+    ],
+    "year": 1995,
+    "rating": 3.5,
+    "popularity": 47
+  },
+  {
+    "id": 49,
+    "title": "Pulp Fiction",
+    "genres": [
+      "Policier",
+      "Drame"
+    ],
+    "year": 1994,
+    "rating": 3.9,
+    "popularity": 49
+  },
+  {
+    "id": 50,
+    "title": "Le Parrain",
+    "genres": [
+      "Policier",
+      "Drame"
+    ],
+    "year": 1972,
+    "rating": 3.3,
+    "popularity": 67
+  },
+  {
+    "id": 51,
+    "title": "Le Parrain 2",
+    "genres": [
+      "Policier",
+      "Drame"
+    ],
+    "year": 1974,
+    "rating": 4.7,
+    "popularity": 17
+  },
+  {
+    "id": 52,
+    "title": "Les Affranchis",
+    "genres": [
+      "Policier",
+      "Drame",
+      "Biographie"
+    ],
+    "year": 1990,
+    "rating": 4.6,
+    "popularity": 45
+  },
+  {
+    "id": 53,
+    "title": "Fight Club",
+    "genres": [
+      "Drame",
+      "Thriller"
+    ],
+    "year": 1999,
+    "rating": 4.6,
+    "popularity": 24
+  },
+  {
+    "id": 54,
+    "title": "Les Suspects",
+    "genres": [
+      "Policier",
+      "Thriller"
+    ],
+    "year": 1995,
+    "rating": 3.2,
+    "popularity": 31
+  },
+  {
+    "id": 55,
+    "title": "Memento",
+    "genres": [
+      "Thriller",
+      "Policier"
+    ],
+    "year": 2000,
+    "rating": 3.9,
+    "popularity": 46
+  },
+  {
+    "id": 56,
+    "title": "Prisoners",
+    "genres": [
+      "Thriller",
+      "Drame",
+      "Policier"
+    ],
+    "year": 2013,
+    "rating": 3,
+    "popularity": 93
+  },
+  {
+    "id": 57,
+    "title": "Gone Girl",
+    "genres": [
+      "Thriller",
+      "Drame"
+    ],
+    "year": 2014,
+    "rating": 2.7,
+    "popularity": 51
+  },
+  {
+    "id": 58,
+    "title": "Shutter Island",
+    "genres": [
+      "Thriller",
+      "Drame"
+    ],
+    "year": 2010,
+    "rating": 3.6,
+    "popularity": 19
+  },
+  {
+    "id": 59,
+    "title": "Zodiac",
+    "genres": [
+      "Policier",
+      "Thriller"
+    ],
+    "year": 2007,
+    "rating": 3.5,
+    "popularity": 73
+  },
+  {
+    "id": 60,
+    "title": "Sicario",
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "year": 2015,
+    "rating": 3.5,
+    "popularity": 83
+  },
+  {
+    "id": 61,
+    "title": "Psychose",
+    "genres": [
+      "Horreur",
+      "Thriller"
+    ],
+    "year": 1960,
+    "rating": 2.9,
+    "popularity": 68
+  },
+  {
+    "id": 62,
+    "title": "Fenêtre sur cour",
+    "genres": [
+      "Thriller",
+      "Policier"
+    ],
+    "year": 1954,
+    "rating": 4.4,
+    "popularity": 50
+  },
+  {
+    "id": 63,
+    "title": "Vertigo",
+    "genres": [
+      "Thriller",
+      "Romance"
+    ],
+    "year": 1958,
+    "rating": 4.4,
+    "popularity": 20
+  },
+  {
+    "id": 64,
+    "title": "Parasite",
+    "genres": [
+      "Thriller",
+      "Drame",
+      "Comédie"
+    ],
+    "year": 2019,
+    "rating": 3,
+    "popularity": 92
+  },
+  {
+    "id": 65,
+    "title": "Les Infiltrés",
+    "genres": [
+      "Policier",
+      "Thriller",
+      "Drame"
+    ],
+    "year": 2006,
+    "rating": 2.5,
+    "popularity": 91
+  },
+  {
+    "id": 66,
+    "title": "Casino",
+    "genres": [
+      "Policier",
+      "Drame"
+    ],
+    "year": 1995,
+    "rating": 3.6,
+    "popularity": 62
+  },
+  {
+    "id": 67,
+    "title": "Shining",
+    "genres": [
+      "Horreur",
+      "Thriller"
+    ],
+    "year": 1980,
+    "rating": 3.7,
+    "popularity": 91
+  },
+  {
+    "id": 68,
+    "title": "L'Exorciste",
+    "genres": [
+      "Horreur"
+    ],
+    "year": 1973,
+    "rating": 3.2,
+    "popularity": 57
+  },
+  {
+    "id": 69,
+    "title": "Halloween",
+    "genres": [
+      "Horreur",
+      "Thriller"
+    ],
+    "year": 1978,
+    "rating": 3,
+    "popularity": 44
+  },
+  {
+    "id": 70,
+    "title": "Get Out",
+    "genres": [
+      "Horreur",
+      "Thriller"
+    ],
+    "year": 2017,
+    "rating": 3.1,
+    "popularity": 24
+  },
+  {
+    "id": 71,
+    "title": "Conjuring",
+    "genres": [
+      "Horreur"
+    ],
+    "year": 2013,
+    "rating": 3.9,
+    "popularity": 62
+  },
+  {
+    "id": 72,
+    "title": "Ça",
+    "genres": [
+      "Horreur",
+      "Fantastique"
+    ],
+    "year": 2017,
+    "rating": 3.7,
+    "popularity": 60
+  },
+  {
+    "id": 73,
+    "title": "Scream",
+    "genres": [
+      "Horreur",
+      "Thriller"
+    ],
+    "year": 1996,
+    "rating": 4,
+    "popularity": 15
+  },
+  {
+    "id": 74,
+    "title": "The Thing",
+    "genres": [
+      "Horreur",
+      "Science-fiction"
+    ],
+    "year": 1982,
+    "rating": 3.7,
+    "popularity": 53
+  },
+  {
+    "id": 75,
+    "title": "Le Dîner de cons",
+    "genres": [
+      "Comédie"
+    ],
+    "year": 1998,
+    "rating": 4,
+    "popularity": 99
+  },
+  {
+    "id": 76,
+    "title": "Intouchables",
+    "genres": [
+      "Comédie",
+      "Drame"
+    ],
+    "year": 2011,
+    "rating": 4.5,
+    "popularity": 31
+  },
+  {
+    "id": 77,
+    "title": "Bienvenue chez les Ch'tis",
+    "genres": [
+      "Comédie"
+    ],
+    "year": 2008,
+    "rating": 2.7,
+    "popularity": 82
+  },
+  {
+    "id": 78,
+    "title": "Grand Budapest Hotel",
+    "genres": [
+      "Comédie",
+      "Aventure"
+    ],
+    "year": 2014,
+    "rating": 4.4,
+    "popularity": 27
+  },
+  {
+    "id": 79,
+    "title": "SOS Fantômes",
+    "genres": [
+      "Comédie",
+      "Fantastique"
+    ],
+    "year": 1984,
+    "rating": 2.7,
+    "popularity": 88
+  },
+  {
+    "id": 80,
+    "title": "Madame Doubtfire",
+    "genres": [
+      "Comédie",
+      "Drame"
+    ],
+    "year": 1993,
+    "rating": 2.6,
+    "popularity": 18
+  },
+  {
+    "id": 81,
+    "title": "Very Bad Trip",
+    "genres": [
+      "Comédie"
+    ],
+    "year": 2009,
+    "rating": 3.1,
+    "popularity": 68
+  },
+  {
+    "id": 82,
+    "title": "Forrest Gump",
+    "genres": [
+      "Drame",
+      "Romance",
+      "Comédie"
+    ],
+    "year": 1994,
+    "rating": 3.7,
+    "popularity": 96
+  },
+  {
+    "id": 83,
+    "title": "Le Fabuleux Destin d'Amélie Poulain",
+    "genres": [
+      "Comédie",
+      "Romance"
+    ],
+    "year": 2001,
+    "rating": 2.5,
+    "popularity": 93
+  },
+  {
+    "id": 84,
+    "title": "La Grande Vadrouille",
+    "genres": [
+      "Comédie",
+      "Guerre"
+    ],
+    "year": 1966,
+    "rating": 4.8,
+    "popularity": 55
+  },
+  {
+    "id": 85,
+    "title": "Un jour sans fin",
+    "genres": [
+      "Comédie",
+      "Romance",
+      "Fantastique"
+    ],
+    "year": 1993,
+    "rating": 2.8,
+    "popularity": 30
+  },
+  {
+    "id": 86,
+    "title": "Monty Python : Sacré Graal !",
+    "genres": [
+      "Comédie",
+      "Fantastique",
+      "Aventure"
+    ],
+    "year": 1975,
+    "rating": 4.4,
+    "popularity": 40
+  },
+  {
+    "id": 87,
+    "title": "Titanic",
+    "genres": [
+      "Romance",
+      "Drame"
+    ],
+    "year": 1997,
+    "rating": 4.4,
+    "popularity": 89
+  },
+  {
+    "id": 88,
+    "title": "Pretty Woman",
+    "genres": [
+      "Romance",
+      "Comédie"
+    ],
+    "year": 1990,
+    "rating": 4,
+    "popularity": 59
+  },
+  {
+    "id": 89,
+    "title": "Notting Hill",
+    "genres": [
+      "Romance",
+      "Comédie"
+    ],
+    "year": 1999,
+    "rating": 3.8,
+    "popularity": 31
+  },
+  {
+    "id": 90,
+    "title": "Casablanca",
+    "genres": [
+      "Romance",
+      "Drame",
+      "Guerre"
+    ],
+    "year": 1942,
+    "rating": 3.7,
+    "popularity": 55
+  },
+  {
+    "id": 91,
+    "title": "Autant en emporte le vent",
+    "genres": [
+      "Romance",
+      "Drame"
+    ],
+    "year": 1939,
+    "rating": 4.4,
+    "popularity": 23
+  },
+  {
+    "id": 92,
+    "title": "Dirty Dancing",
+    "genres": [
+      "Romance",
+      "Musical",
+      "Drame"
+    ],
+    "year": 1987,
+    "rating": 2.5,
+    "popularity": 36
+  },
+  {
+    "id": 93,
+    "title": "La La Land",
+    "genres": [
+      "Musical",
+      "Romance",
+      "Drame"
+    ],
+    "year": 2016,
+    "rating": 3.9,
+    "popularity": 70
+  },
+  {
+    "id": 94,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "genres": [
+      "Romance",
+      "Science-fiction",
+      "Drame"
+    ],
+    "year": 2004,
+    "rating": 2.6,
+    "popularity": 23
+  },
+  {
+    "id": 95,
+    "title": "Mamma Mia !",
+    "genres": [
+      "Musical",
+      "Comédie",
+      "Romance"
+    ],
+    "year": 2008,
+    "rating": 3.7,
+    "popularity": 65
+  },
+  {
+    "id": 96,
+    "title": "Le Journal de Bridget Jones",
+    "genres": [
+      "Romance",
+      "Comédie"
+    ],
+    "year": 2001,
+    "rating": 2.6,
+    "popularity": 88
+  },
+  {
+    "id": 97,
+    "title": "L'Étrange Histoire de Benjamin Button",
+    "genres": [
+      "Drame",
+      "Romance",
+      "Fantastique"
+    ],
+    "year": 2008,
+    "rating": 2.6,
+    "popularity": 28
+  },
+  {
+    "id": 98,
+    "title": "Moulin Rouge !",
+    "genres": [
+      "Musical",
+      "Romance"
+    ],
+    "year": 2001,
+    "rating": 2.7,
+    "popularity": 52
+  },
+  {
+    "id": 99,
+    "title": "Le Roi Lion",
+    "genres": [
+      "Animation",
+      "Drame",
+      "Musical"
+    ],
+    "year": 1994,
+    "rating": 3.8,
+    "popularity": 25
+  },
+  {
+    "id": 100,
+    "title": "Toy Story",
+    "genres": [
+      "Animation",
+      "Comédie",
+      "Aventure"
+    ],
+    "year": 1995,
+    "rating": 3.6,
+    "popularity": 47
+  },
+  {
+    "id": 101,
+    "title": "Le Voyage de Chihiro",
+    "genres": [
+      "Animation",
+      "Fantastique",
+      "Aventure"
+    ],
+    "year": 2001,
+    "rating": 3.8,
+    "popularity": 98
+  },
+  {
+    "id": 102,
+    "title": "Le Château ambulant",
+    "genres": [
+      "Animation",
+      "Fantastique",
+      "Romance"
+    ],
+    "year": 2004,
+    "rating": 4.8,
+    "popularity": 75
+  },
+  {
+    "id": 103,
+    "title": "Mon voisin Totoro",
+    "genres": [
+      "Animation",
+      "Fantastique"
+    ],
+    "year": 1988,
+    "rating": 4.3,
+    "popularity": 86
+  },
+  {
+    "id": 104,
+    "title": "Princesse Mononoké",
+    "genres": [
+      "Animation",
+      "Fantastique",
+      "Aventure"
+    ],
+    "year": 1997,
+    "rating": 4.7,
+    "popularity": 85
+  },
+  {
+    "id": 105,
+    "title": "La Reine des neiges",
+    "genres": [
+      "Animation",
+      "Musical",
+      "Fantastique"
+    ],
+    "year": 2013,
+    "rating": 3.8,
+    "popularity": 17
+  },
+  {
+    "id": 106,
+    "title": "Shrek",
+    "genres": [
+      "Animation",
+      "Comédie",
+      "Fantastique"
+    ],
+    "year": 2001,
+    "rating": 2.9,
+    "popularity": 16
+  },
+  {
+    "id": 107,
+    "title": "Les Indestructibles",
+    "genres": [
+      "Animation",
+      "Action",
+      "Comédie"
+    ],
+    "year": 2004,
+    "rating": 4.4,
+    "popularity": 17
+  },
+  {
+    "id": 108,
+    "title": "Là-haut",
+    "genres": [
+      "Animation",
+      "Aventure",
+      "Comédie"
+    ],
+    "year": 2009,
+    "rating": 4.3,
+    "popularity": 88
+  },
+  {
+    "id": 109,
+    "title": "Vice-versa",
+    "genres": [
+      "Animation",
+      "Comédie",
+      "Drame"
+    ],
+    "year": 2015,
+    "rating": 3.4,
+    "popularity": 53
+  },
+  {
+    "id": 110,
+    "title": "Coco",
+    "genres": [
+      "Animation",
+      "Musical",
+      "Fantastique"
+    ],
+    "year": 2017,
+    "rating": 4.6,
+    "popularity": 88
+  },
+  {
+    "id": 111,
+    "title": "Le Monde de Nemo",
+    "genres": [
+      "Animation",
+      "Aventure",
+      "Comédie"
+    ],
+    "year": 2003,
+    "rating": 4.6,
+    "popularity": 57
+  },
+  {
+    "id": 112,
+    "title": "Ratatouille",
+    "genres": [
+      "Animation",
+      "Comédie"
+    ],
+    "year": 2007,
+    "rating": 3.8,
+    "popularity": 30
+  },
+  {
+    "id": 113,
+    "title": "Akira",
+    "genres": [
+      "Animation",
+      "Science-fiction",
+      "Action"
+    ],
+    "year": 1988,
+    "rating": 4.4,
+    "popularity": 72
+  },
+  {
+    "id": 114,
+    "title": "Spider-Man : New Generation",
+    "genres": [
+      "Animation",
+      "Action",
+      "Science-fiction"
+    ],
+    "year": 2018,
+    "rating": 4.4,
+    "popularity": 72
+  },
+  {
+    "id": 115,
+    "title": "Les Évadés",
+    "genres": [
+      "Drame"
+    ],
+    "year": 1994,
+    "rating": 4.8,
+    "popularity": 91
+  },
+  {
+    "id": 116,
+    "title": "La Liste de Schindler",
+    "genres": [
+      "Drame",
+      "Guerre",
+      "Biographie"
+    ],
+    "year": 1993,
+    "rating": 3.5,
+    "popularity": 82
+  },
+  {
+    "id": 117,
+    "title": "Il faut sauver le soldat Ryan",
+    "genres": [
+      "Guerre",
+      "Drame",
+      "Action"
+    ],
+    "year": 1998,
+    "rating": 3,
+    "popularity": 20
+  },
+  {
+    "id": 118,
+    "title": "Apocalypse Now",
+    "genres": [
+      "Guerre",
+      "Drame"
+    ],
+    "year": 1979,
+    "rating": 2.8,
+    "popularity": 74
+  },
+  {
+    "id": 119,
+    "title": "Dunkerque",
+    "genres": [
+      "Guerre",
+      "Thriller",
+      "Drame"
+    ],
+    "year": 2017,
+    "rating": 4.1,
+    "popularity": 30
+  },
+  {
+    "id": 120,
+    "title": "1917",
+    "genres": [
+      "Guerre",
+      "Drame"
+    ],
+    "year": 2019,
+    "rating": 2.4,
+    "popularity": 91
+  },
+  {
+    "id": 121,
+    "title": "Le Pianiste",
+    "genres": [
+      "Drame",
+      "Guerre",
+      "Biographie"
+    ],
+    "year": 2002,
+    "rating": 4.2,
+    "popularity": 31
+  },
+  {
+    "id": 122,
+    "title": "La Ligne verte",
+    "genres": [
+      "Drame",
+      "Fantastique"
+    ],
+    "year": 1999,
+    "rating": 2.8,
+    "popularity": 79
+  },
+  {
+    "id": 123,
+    "title": "Will Hunting",
+    "genres": [
+      "Drame"
+    ],
+    "year": 1997,
+    "rating": 3.2,
+    "popularity": 83
+  },
+  {
+    "id": 124,
+    "title": "Whiplash",
+    "genres": [
+      "Drame",
+      "Musical"
+    ],
+    "year": 2014,
+    "rating": 4.1,
+    "popularity": 53
+  },
+  {
+    "id": 125,
+    "title": "American Beauty",
+    "genres": [
+      "Drame"
+    ],
+    "year": 1999,
+    "rating": 3.1,
+    "popularity": 94
+  },
+  {
+    "id": 126,
+    "title": "Oppenheimer",
+    "genres": [
+      "Biographie",
+      "Drame"
+    ],
+    "year": 2023,
+    "rating": 2.5,
+    "popularity": 71
+  },
+  {
+    "id": 127,
+    "title": "The Social Network",
+    "genres": [
+      "Biographie",
+      "Drame"
+    ],
+    "year": 2010,
+    "rating": 3.8,
+    "popularity": 61
+  },
+  {
+    "id": 128,
+    "title": "Le Discours d'un roi",
+    "genres": [
+      "Biographie",
+      "Drame"
+    ],
+    "year": 2010,
+    "rating": 3.1,
+    "popularity": 57
+  },
+  {
+    "id": 129,
+    "title": "Les Misérables",
+    "genres": [
+      "Musical",
+      "Drame"
+    ],
+    "year": 2012,
+    "rating": 2.9,
+    "popularity": 81
+  },
+  {
+    "id": 130,
+    "title": "Joker",
+    "genres": [
+      "Thriller",
+      "Drame",
+      "Policier"
+    ],
+    "year": 2019,
+    "rating": 3.1,
+    "popularity": 73
+  },
+  {
+    "id": 131,
+    "title": "Douze hommes en colère",
+    "genres": [
+      "Drame",
+      "Policier"
+    ],
+    "year": 1957,
+    "rating": 3.2,
+    "popularity": 30
+  },
+  {
+    "id": 132,
+    "title": "Taxi Driver",
+    "genres": [
+      "Drame",
+      "Thriller",
+      "Policier"
+    ],
+    "year": 1976,
+    "rating": 4.2,
+    "popularity": 65
+  },
+  {
+    "id": 133,
+    "title": "Rain Man",
+    "genres": [
+      "Drame",
+      "Comédie"
+    ],
+    "year": 1988,
+    "rating": 2.9,
+    "popularity": 48
+  },
+  {
+    "id": 134,
+    "title": "Le Prestige",
+    "genres": [
+      "Thriller",
+      "Drame",
+      "Science-fiction"
+    ],
+    "year": 2006,
+    "rating": 4.6,
+    "popularity": 52
+  },
+  {
+    "id": 135,
+    "title": "Gran Torino",
+    "genres": [
+      "Drame"
+    ],
+    "year": 2008,
+    "rating": 3.1,
+    "popularity": 42
+  },
+  {
+    "id": 136,
+    "title": "Les Choristes",
+    "genres": [
+      "Drame",
+      "Musical"
+    ],
+    "year": 2004,
+    "rating": 2.7,
+    "popularity": 99
+  },
+  {
+    "id": 137,
+    "title": "La vie est belle",
+    "genres": [
+      "Drame",
+      "Comédie",
+      "Guerre"
+    ],
+    "year": 1997,
+    "rating": 4.7,
+    "popularity": 81
+  },
+  {
+    "id": 138,
+    "title": "Le Cercle des poètes disparus",
+    "genres": [
+      "Drame"
+    ],
+    "year": 1989,
+    "rating": 4.3,
+    "popularity": 87
+  },
+  {
+    "id": 139,
+    "title": "Barbie",
+    "genres": [
+      "Comédie",
+      "Fantastique"
+    ],
+    "year": 2023,
+    "rating": 3.6,
+    "popularity": 91
+  },
+  {
+    "id": 140,
+    "title": "Harry Potter à l'école des sorciers",
+    "genres": [
+      "Fantastique",
+      "Aventure"
+    ],
+    "year": 2001,
+    "rating": 2.6,
+    "popularity": 49
+  },
+  {
+    "id": 141,
+    "title": "Le Labyrinthe de Pan",
+    "genres": [
+      "Fantastique",
+      "Drame",
+      "Guerre"
+    ],
+    "year": 2006,
+    "rating": 4.4,
+    "popularity": 53
+  },
+  {
+    "id": 142,
+    "title": "Edward aux mains d'argent",
+    "genres": [
+      "Fantastique",
+      "Romance",
+      "Drame"
+    ],
+    "year": 1990,
+    "rating": 2.9,
+    "popularity": 59
+  },
+  {
+    "id": 143,
+    "title": "Le Hobbit : Un voyage inattendu",
+    "genres": [
+      "Fantastique",
+      "Aventure"
+    ],
+    "year": 2012,
+    "rating": 3.7,
+    "popularity": 46
+  },
+  {
+    "id": 144,
+    "title": "Le Monde de Narnia : Le Lion, la Sorcière blanche et l'Armoire magique",
+    "genres": [
+      "Fantastique",
+      "Aventure"
+    ],
+    "year": 2005,
+    "rating": 3.5,
+    "popularity": 92
+  },
+  {
+    "id": 145,
+    "title": "La Forme de l'eau",
+    "genres": [
+      "Fantastique",
+      "Romance",
+      "Drame"
+    ],
+    "year": 2017,
+    "rating": 3.1,
+    "popularity": 27
+  },
+  {
+    "id": 146,
+    "title": "Princess Bride",
+    "genres": [
+      "Fantastique",
+      "Aventure",
+      "Romance",
+      "Comédie"
+    ],
+    "year": 1987,
+    "rating": 2.9,
+    "popularity": 75
+  }
+]

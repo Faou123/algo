@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CinéMatch</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="logo">Ciné<span>Match</span></div>
+    <input id="search" class="search" type="search" placeholder="Rechercher un film par titre…" aria-label="Rechercher un film par titre">
+    <label class="user-picker">
+      <span class="sr-only">Profil actif</span>
+      <select id="user-select" aria-label="Profil actif"></select>
+    </label>
+  </header>
+
+  <main>
+    <div id="global-error" class="message error" role="alert" hidden></div>
+
+    <section id="profile" class="panel" aria-labelledby="profile-title">
+      <h2 id="profile-title" class="sr-only">Profil actif</h2>
+      <div id="profile-content"><p class="message">Chargement du profil…</p></div>
+    </section>
+
+    <section id="recommendations" class="block" aria-labelledby="reco-title">
+      <div class="block-head">
+        <h2 id="reco-title">Recommandé pour vous</h2>
+        <button id="reco-refresh" class="btn" type="button">↻ Recalculer</button>
+      </div>
+      <p id="reco-hint" class="hint" hidden>Votre profil a changé : cliquez sur « Recalculer » pour mettre à jour les recommandations.</p>
+      <div id="reco-list" class="reco-grid"><p class="message">Chargement des recommandations…</p></div>
+    </section>
+
+    <section id="catalog" class="block" aria-labelledby="catalog-title">
+      <div class="block-head">
+        <h2 id="catalog-title">Catalogue</h2>
+        <div class="filters">
+          <select id="genre-filter" aria-label="Filtrer par genre"></select>
+          <select id="sort-select" aria-label="Trier">
+            <option value="rating">Tri : note moyenne</option>
+            <option value="year">Tri : année</option>
+            <option value="popularity">Tri : popularité</option>
+          </select>
+        </div>
+      </div>
+      <p class="hint">Les notes moyennes et popularités des films sont fictives (données pédagogiques).</p>
+      <div id="catalog-list" class="grid"><p class="message">Chargement du catalogue…</p></div>
+    </section>
+  </main>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>
