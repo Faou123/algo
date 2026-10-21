@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CinéMatch — projet pédagogique de recommandation de films
 
 Application de streaming miniature (HTML/CSS/JS vanilla + serveur Node.js natif, **zéro dépendance**).
@@ -89,3 +90,7 @@ Ils correspondent aux `TODO` de `recommender.js` et aux tests « Exercices » :
 
 Indices sur les données : Alice et Gaëlle ont des goûts proches, ainsi que Bob/Jules et Chloé/Inès ;
 David (horreur) et Chloé (romance) ont des goûts opposés.
+=======
+# algo
+TP de algo
+>>>>>>> c732b7d698eed7dfe6c65df15a35d414a361ad62
